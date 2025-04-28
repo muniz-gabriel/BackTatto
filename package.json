@@ -1,0 +1,13 @@
+{
+  "name": "backtatto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Tatto", "Desenvolvimento WEB", "Node.js", "Express", "Dev BackEnd" ],
+  "author": "Gabriel Marcos Gonçalves Muniz",
+  "license": "MIT",
+  "description": "Sistema de exemplo para curso Técnico de Informática do IFSP, aplicando API.",
+  "type":"module"
+}
